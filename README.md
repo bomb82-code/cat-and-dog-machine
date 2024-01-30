@@ -7,8 +7,11 @@ passcode：sjn2
 
  # Environment
 python 3.7
+
 numpy 1.21.5
+
 tensorflow 2.11.0
+
 Pillow 9.5.0
 
 
